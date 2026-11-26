@@ -1,0 +1,1271 @@
+{
+  "variant": "L1-v5",
+  "timezone": "Asia/Kolkata",
+  "window": [
+    "2026-11-27",
+    "2026-12-03"
+  ],
+  "cinemas": [
+    {
+      "id": "cp67",
+      "name": "CP67 Screen",
+      "area": "Mohali",
+      "travel_min": 25,
+      "formats": [
+        "Standard",
+        "3D"
+      ]
+    },
+    {
+      "id": "zirakpur",
+      "name": "Zirakpur Cineplex",
+      "area": "Zirakpur",
+      "travel_min": 40,
+      "formats": [
+        "Standard",
+        "3D",
+        "IMAX"
+      ]
+    },
+    {
+      "id": "elante",
+      "name": "Elante Theatre",
+      "area": "Chandigarh",
+      "travel_min": 50,
+      "formats": [
+        "Standard",
+        "IMAX"
+      ]
+    }
+  ],
+  "films": [
+    {
+      "id": "doomsday",
+      "title": "Avengers: Doomsday",
+      "runtime_min": 165
+    },
+    {
+      "id": "dune",
+      "title": "Dune: Part Three",
+      "runtime_min": 155
+    }
+  ],
+  "shows": [
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-27T10:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 440
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-27T10:15",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 480
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-27T10:45",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 470
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-27T11:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 380
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-27T11:45",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 420
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-27T11:45",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 710
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-27T13:45",
+      "format": "IMAX",
+      "language": "Hindi",
+      "price_inr": 750
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-27T13:55",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 420
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-27T14:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 420
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-27T14:45",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 370
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-27T15:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 370
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-27T15:55",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 730
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-27T17:15",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 490
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-27T17:45",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 430
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-27T17:45",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 720
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-27T18:35",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 690
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-27T18:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 350
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-27T19:45",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 750
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-27T21:25",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 500
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-27T21:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 450
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-27T21:35",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 450
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-27T22:20",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 410
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-27T22:30",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 460
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-28T09:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 470
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-28T09:30",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 420
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-28T09:45",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 690
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-28T10:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 380
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-28T11:00",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 460
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-28T11:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 370
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-28T12:25",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 730
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-28T12:45",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 660
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-28T13:20",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 440
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-28T14:10",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 430
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-28T14:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 420
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-28T15:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 370
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-28T15:55",
+      "format": "IMAX",
+      "language": "Hindi",
+      "price_inr": 720
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-28T16:30",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 460
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-28T16:55",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 470
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-28T17:20",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 730
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-28T17:55",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 410
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-28T19:15",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 740
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-28T19:40",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 370
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-28T19:55",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 460
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-28T20:05",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 490
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-28T20:30",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 730
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-28T21:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 420
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-29T09:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 460
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-29T09:45",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 660
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-29T10:45",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 430
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-29T10:45",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 440
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-29T10:45",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 490
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-29T11:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 380
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-29T12:10",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 740
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-29T13:05",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 410
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-29T14:20",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 430
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-29T14:20",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 470
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-29T15:05",
+      "format": "IMAX",
+      "language": "Hindi",
+      "price_inr": 700
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-29T15:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 380
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-29T15:40",
+      "format": "IMAX",
+      "language": "Hindi",
+      "price_inr": 740
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-29T17:15",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 400
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-29T17:20",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 440
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-29T18:30",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 430
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-29T18:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 410
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-29T19:05",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 450
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-29T19:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 440
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-29T20:15",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 480
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-29T20:40",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 450
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-29T21:40",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 430
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-29T22:25",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 420
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-29T22:35",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 680
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-30T09:00",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 410
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-30T10:00",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-30T10:45",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 650
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-30T11:00",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 300
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-30T11:15",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 310
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-30T11:30",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 270
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-30T13:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 300
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-30T14:00",
+      "format": "IMAX",
+      "language": "Hindi",
+      "price_inr": 660
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-30T14:05",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 670
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-30T15:00",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-30T15:05",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 370
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-30T15:25",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 330
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-11-30T16:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 300
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-30T17:40",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-30T18:20",
+      "format": "IMAX",
+      "language": "Hindi",
+      "price_inr": 670
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-11-30T18:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 290
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-11-30T18:40",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 300
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-30T19:00",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 320
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-11-30T20:50",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-11-30T21:50",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 660
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-11-30T22:20",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 410
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-12-01T09:00",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 320
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-12-01T09:15",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 380
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-12-01T10:15",
+      "format": "3D",
+      "language": "Hindi",
+      "price_inr": 360
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-12-01T10:15",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-12-01T11:00",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 640
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-12-01T11:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 320
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-12-01T12:20",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 340
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-12-01T13:00",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-12-01T14:10",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-12-01T14:15",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 380
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-12-01T14:25",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 340
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-12-01T14:40",
+      "format": "IMAX",
+      "language": "Hindi",
+      "price_inr": 590
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-12-01T16:10",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 640
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-12-01T16:30",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 590
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-12-01T17:45",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-12-01T18:15",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 290
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-12-01T18:15",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 380
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-12-01T18:40",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 620
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-12-01T20:20",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 300
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-12-01T21:20",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 390
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-12-02T10:15",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-12-02T10:15",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 380
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-12-02T10:30",
+      "format": "3D",
+      "language": "Hindi",
+      "price_inr": 350
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-12-02T10:30",
+      "format": "IMAX",
+      "language": "Hindi",
+      "price_inr": 650
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-12-02T10:30",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 380
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-12-02T11:45",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 420
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-12-02T13:15",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 270
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-12-02T13:40",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 630
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-12-02T13:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 300
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-12-02T14:05",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 400
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-12-02T14:30",
+      "format": "IMAX",
+      "language": "Hindi",
+      "price_inr": 640
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-12-02T15:45",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 340
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-12-02T16:15",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-12-02T17:30",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 650
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-12-02T17:40",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 640
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-12-02T17:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 300
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-12-02T17:55",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 310
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-12-02T19:30",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 590
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-12-02T20:25",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 290
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-12-02T22:00",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 650
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-12-03T09:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 320
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-12-03T09:45",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 260
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-12-03T10:15",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 390
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-12-03T11:00",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 380
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-12-03T11:00",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-12-03T11:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "price_inr": 300
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-12-03T12:50",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 320
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-12-03T12:55",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 270
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-12-03T14:05",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 330
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-12-03T14:10",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 670
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-12-03T14:20",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 630
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-12-03T14:25",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 380
+    },
+    {
+      "film": "dune",
+      "cinema": "cp67",
+      "start": "2026-12-03T16:15",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 380
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-12-03T16:35",
+      "format": "3D",
+      "language": "Hindi",
+      "price_inr": 420
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-12-03T17:20",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 640
+    },
+    {
+      "film": "doomsday",
+      "cinema": "cp67",
+      "start": "2026-12-03T17:35",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 340
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-12-03T17:55",
+      "format": "3D",
+      "language": "English",
+      "price_inr": 410
+    },
+    {
+      "film": "doomsday",
+      "cinema": "elante",
+      "start": "2026-12-03T18:40",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 640
+    },
+    {
+      "film": "doomsday",
+      "cinema": "zirakpur",
+      "start": "2026-12-03T19:45",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 330
+    },
+    {
+      "film": "dune",
+      "cinema": "elante",
+      "start": "2026-12-03T21:10",
+      "format": "Standard",
+      "language": "English",
+      "price_inr": 350
+    },
+    {
+      "film": "dune",
+      "cinema": "zirakpur",
+      "start": "2026-12-03T22:05",
+      "format": "IMAX",
+      "language": "English",
+      "price_inr": 600
+    }
+  ]
+}
